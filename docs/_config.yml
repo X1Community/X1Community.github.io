@@ -30,7 +30,7 @@ url: "https://x1community.github.io/" # the base hostname & protocol for your si
 github_username:  camarokris
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
